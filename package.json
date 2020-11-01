@@ -1,0 +1,25 @@
+{
+  "name": "three-fun",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "three": "^0.122.0",
+    "webpack": "^5.3.2",
+    "webpack-cli": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisbellcodes/three-fun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisbellcodes/three-fun/issues"
+  },
+  "homepage": "https://github.com/chrisbellcodes/three-fun#readme"
+}
